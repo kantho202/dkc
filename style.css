@@ -1,0 +1,20 @@
+p{
+    color: chartreuse;
+    border: 5px solid yellow;
+    border-radius: 5px;
+    background-color: rgb(61, 30, 233);
+    width: 500px;
+    padding: 10px;
+    margin-left: 380px;
+}
+span{
+    color: aqua;
+}
+h1{
+    /* margin: 10px; */
+    text-align: center;
+    color: rgb(150, 18, 18);
+    background-color: bisque;
+    width: 500px;
+     margin-left: 380px;
+}
